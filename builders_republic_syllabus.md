@@ -241,4 +241,4 @@
 
 ---
 
-*Version 1.0 — companion to the detailed README. Edit freely.*
+*Version 1.0 — companion to the detailed README.*
